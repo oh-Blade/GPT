@@ -7,8 +7,11 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.4.0",
+    "calibre": "^5.0.4",
     "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
     "iconv-lite": "^0.6.3",
-    "jsdom": "^22.1.0"
+    "jsdom": "^22.1.0",
+    "pandoc": "^0.2.0"
   }
 }
